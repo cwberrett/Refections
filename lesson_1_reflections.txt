@@ -1,3 +1,22 @@
-Using diff helped me by showing exactly where differences were. I knew that if had to be something that was
+1) Using diff helped me by showing exactly where differences were. I knew that if had to be something that was
 different tha was the problem so having the differences highlighted cut out most of the code allowing me
 to look at few areas and save time.
+
+2) You can easily go back to see changes and figure out what things have improved or created problems. If you
+ever get lost you can backtrack without starting all the way over.
+
+3) Automatic helps if you are forgetfull but will not follow a logical pattern. Manual will help you to make
+sure all versions make sense and are useful.
+
+4) Whether you need multiple or single files depends on what you are doing. For something like web development
+where you are using multiple types of linked files, you would want the ability to save multiple files, but if you are just working on writing an essay then a single file might be fine.
+
+5) git log will allow me to see all the committs and the descriptive notes that identify what changes were made.
+git diff will allow me to isolate and identify the changes that were made.
+
+6) since you know that you could easily return to previous versions that your know are working, you can be more
+bold in trying to make changes without fear of ruining everything
+
+7) I will plan on using git for my front end web developer nano degree.
+
+8) It creates a respository to hold the metadata for your commits.
