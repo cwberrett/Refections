@@ -1,0 +1,3 @@
+Using diff helped me by showing exactly where differences were. I knew that if had to be something that was
+different tha was the problem so having the differences highlighted cut out most of the code allowing me
+to look at few areas and save time.
