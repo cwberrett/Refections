@@ -1,0 +1,5 @@
+I would use branches when trying a new feature or something similar but when i still wanted a main working copy.
+
+Diagrams help because they give you a picture of the whole tree at once in a way that is easily interpreted.
+
+It takes the changes from two different lines 
